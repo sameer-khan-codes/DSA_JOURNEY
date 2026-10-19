@@ -104,6 +104,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +113,32 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
