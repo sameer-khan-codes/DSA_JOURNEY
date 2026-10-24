@@ -124,6 +124,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
@@ -169,4 +170,12 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
