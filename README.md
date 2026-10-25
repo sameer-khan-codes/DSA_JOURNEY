@@ -114,6 +114,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0540-single-element-in-a-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
