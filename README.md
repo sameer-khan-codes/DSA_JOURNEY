@@ -103,6 +103,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
@@ -129,6 +130,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -144,6 +146,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
