@@ -184,6 +184,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -198,6 +199,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0189-rotate-array) |
 ## Newton's Method
@@ -216,6 +218,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
