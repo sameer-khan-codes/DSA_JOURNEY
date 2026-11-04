@@ -189,6 +189,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +226,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -239,4 +241,8 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
