@@ -208,6 +208,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0050-powx-n](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1922-count-good-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -254,6 +255,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
