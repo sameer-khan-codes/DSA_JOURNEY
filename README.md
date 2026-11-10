@@ -193,6 +193,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -232,6 +233,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0005-longest-palindromic-substring](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -263,6 +265,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
