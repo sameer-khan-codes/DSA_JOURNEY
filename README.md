@@ -109,6 +109,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0090-subsets-ii) |
@@ -226,6 +227,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -235,6 +237,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -270,6 +273,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0039-combination-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -277,4 +281,8 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0078-subsets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
