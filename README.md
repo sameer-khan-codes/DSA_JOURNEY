@@ -130,6 +130,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1901-find-a-peak-element-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
 | ------- |
