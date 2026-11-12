@@ -107,6 +107,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
@@ -272,6 +273,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0090-subsets-ii) |
@@ -285,4 +287,8 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
