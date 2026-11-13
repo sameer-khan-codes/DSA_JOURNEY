@@ -105,6 +105,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0051-n-queens) |
@@ -197,6 +198,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0013-roman-to-integer](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -228,6 +230,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1901-find-a-peak-element-ii) |
@@ -272,6 +275,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0051-n-queens) |
@@ -291,5 +295,10 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
