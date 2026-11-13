@@ -132,6 +132,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -251,6 +253,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -301,4 +304,20 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0037-sudoku-solver) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
