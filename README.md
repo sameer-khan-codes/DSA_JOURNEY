@@ -220,6 +220,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0050-powx-n](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1922-count-good-numbers) |
 ## Newton's Method
 |  |
@@ -245,6 +246,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0282-expression-add-operators) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -286,6 +288,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0079-word-search](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
