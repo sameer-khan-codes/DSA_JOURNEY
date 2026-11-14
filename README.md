@@ -132,6 +132,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
@@ -209,6 +210,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -314,6 +316,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
