@@ -130,6 +130,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
@@ -196,6 +197,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0022-generate-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +212,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
@@ -223,6 +226,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0069-sqrtx](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0282-expression-add-operators) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1922-count-good-numbers) |
 ## Newton's Method
 |  |
