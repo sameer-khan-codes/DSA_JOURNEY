@@ -330,4 +330,8 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
