@@ -256,6 +256,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [1021-remove-outermost-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -334,4 +335,8 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
