@@ -340,6 +340,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0002-add-two-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0328-odd-even-linked-list) |
 ## Simulation
 |  |
 | ------- |
