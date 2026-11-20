@@ -143,6 +143,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0088-merge-sorted-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -346,6 +347,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0237-delete-node-in-a-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
