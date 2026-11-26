@@ -239,6 +239,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0282-expression-add-operators](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0282-expression-add-operators) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3360-stone-removal-game) |
 ## Newton's Method
 |  |
 | ------- |
@@ -370,6 +371,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/3360-stone-removal-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
