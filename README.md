@@ -175,6 +175,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -188,6 +189,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -357,6 +359,7 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | [0002-add-two-numbers](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
@@ -377,4 +380,12 @@ I believe that consistent practice, patience, and learning from mistakes are ess
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sameer-khan-codes/DSA_JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
